@@ -1,0 +1,17 @@
+{
+    "actorSpecification": 1,
+    "name": "Product Launch Tracker scraper",
+    "title": "Product Launch Tracker scraper",
+    "description": "Product Launch Tracker scraper",
+    "version": "0.0",
+    "meta": {
+        "templateId": "ai-generated-actor",
+        "generatedBy": "Gpt-4o-mini"
+    },
+    "input": "./input_schema.json",
+    "output": "./output_schema.json",
+    "storages": {
+        "dataset": "./dataset_schema.json"
+    },
+    "dockerfile": "../Dockerfile"
+}
